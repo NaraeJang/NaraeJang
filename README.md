@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narae Jang</h1>
-<h3 align="center">A passionate developer from Canada with Design background</h3>
+<h3 align="center">A passionate developer from Korea living in Montreal, CA with Design background</h3>
 
 - 🔭 I’m currently working on **Personal Blog Website**
 

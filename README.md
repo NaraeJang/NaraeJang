@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Blog Website**
 
-- 🌱 I’m currently learning **EJS, SQL, REACT, and MongoDB**
+- 🌱 I’m currently learning **EJS, SQL, MongoDB, and REACT**
 
 - 📫 How to reach me **j.naaaarae@gmail.com**
 

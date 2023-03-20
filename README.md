@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Narae Jang</h1>
 <h3 align="center">A passionate developer from Korea and currentely living in Montreal, CA</h3>
 
-- 🔭 I’m currently working on **Personal Blog Website**
+- 🔭 I’m currently working on **DBank Project**
 
-- 🌱 I’m currently learning **EJS, SQL, MongoDB, and REACT**
+- 🌱 I’m currently learning **Web3 Decentralised App Development with the Internet Computer**
 
 - 📫 How to reach me **j.naaaarae@gmail.com**
 

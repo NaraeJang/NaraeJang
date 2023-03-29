@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Narae Jang</h1>
 <h3 align="center">A passionate developer from Korea and currentely living in Montreal, CA</h3>
 
-- 🔭 I’m currently working on **DBank Project**
+- 🔭 I’m currently working on Monster Rolodex
 
-- 🌱 I’m currently learning **Web3 Decentralised App Development with the Internet Computer**
+- 🌱 I’m currently learning **React js in depth.**
 
 - 📫 How to reach me **j.naaaarae@gmail.com**
 
-- 📄 Know about my experiences [https://www.figma.com/proto/XBzWgPeythD176sdwu1XfM/Resume-NaraeJang?page-id=203%3A160&node-id=203%3A161&viewport=479%2C248%2C0.87&scaling=min-zoom](https://www.figma.com/proto/XBzWgPeythD176sdwu1XfM/Resume-NaraeJang?page-id=203%3A160&node-id=203%3A161&viewport=479%2C248%2C0.87&scaling=min-zoom)
+- 📄 Know about my experiences [Check My Resumé](https://www.figma.com/proto/XBzWgPeythD176sdwu1XfM/Resume-NaraeJang?page-id=203%3A160&node-id=203%3A161&viewport=479%2C248%2C0.87&scaling=min-zoom)
 
 - ⚡ Fun fact **I'm addicted to coffee**
 

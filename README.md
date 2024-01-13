@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narae Jang</h1>
-<h3 align="center">A passionate developer from Korea and currently living in Montreal, CA</h3>
+<h3 align="center">A passionate developer from South Korea and currently living in Montreal, CA</h3>
 
 <div align="center">
 <p>🔭 I’m currently working on [Comfy Store](https://github.com/NaraeJang/ComfyStore)</p>

@@ -4,11 +4,15 @@
 
 ###
 
-<p align="left">Hey there, I'm Narae, a creative professional with 4+ years of design experience and a fervor for front-end development.
+<p align="left">Hey there, I'm Narae, a creative professional with over 3 years of design experience and a passion for front-end development. Originally from Seoul, South Korea, I currently reside in Montreal, Canada.
 
-As a graphic and UX/UI designer, I've crafted visuals for diverse marketing channels and designed interfaces for web and mobile apps. My journey led me to delve into HTML, CSS, and JavaScript through self-study and hands-on projects.
+I discovered my love for coding after working as a designer. While design allows me to express my creativity, coding empowers me to bring those ideas to life. The sense of achievement I get from coding is a strong motivator that propelled me into this journey. I find joy in learning new concepts, completing projects, and witnessing them function seamlessly.
 
-Now, my focus is on front-end development, and I'm excited about the opportunity to contribute to real-world projects. Let's code something amazing together!</p>
+As a graphic and UX/UI designer, I've crafted visuals for diverse marketing channels and designed interfaces for web and mobile apps. This journey led me to delve into HTML, CSS, and JavaScript through self-study and hands-on projects.
+
+Now, my primary focus is on front-end development, and I'm thrilled about the opportunity to contribute to real-world projects.</p>
+
+
 ###
 
 <h3 align="left">Frontend</h3>

@@ -4,14 +4,11 @@
 
 ###
 
-<p align="left">Hi everyone, I'm Narae. 
-I'm a creative professional with over 4 years of experience in design and a passion for front-end development. 
+<p align="left">Hey there, I'm Narae, a creative professional with 4+ years of design experience and a fervor for front-end development.
 
-As a graphic designer, I've created visuals for various channels in marketing departments, and as a UX/UI designer, I've designed interfaces for web and mobile apps. 
+As a graphic and UX/UI designer, I've crafted visuals for diverse marketing channels and designed interfaces for web and mobile apps. My journey led me to delve into HTML, CSS, and JavaScript through self-study and hands-on projects.
 
-I have developed my skills in HTML, CSS, and JavaScript through self-study and projects. I'm excited about the prospect of pursuing a career in front-end development and would welcome the opportunity to work on real-world projects to further develop my skills.
-</p>
-
+Now, my focus is on front-end development, and I'm excited about the opportunity to contribute to real-world projects. Let's code something amazing together!</p>
 ###
 
 <h3 align="left">Frontend</h3>

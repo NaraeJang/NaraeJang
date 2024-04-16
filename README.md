@@ -9,8 +9,7 @@
 I discovered my love for coding while working as a designer. I express my creativity with design, and coding empowers me to bring those ideas to life. The sense of achievement I get from coding is a strong motivator that propelled me into this journey. I find joy in learning new concepts, completing projects, and witnessing them function seamlessly.
 
 As a graphic and UX/UI designer, I've crafted visuals for diverse marketing channels and designed interfaces for web and mobile apps. This journey led me to delve into HTML, CSS, and JavaScript through self-study and hands-on projects.
-
-Now, my primary focus is on front-end development, and I'm thrilled about the opportunity to contribute to real-world projects.</p>
+</p>
 
 
 ###

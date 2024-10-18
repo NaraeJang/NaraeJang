@@ -1,6 +1,6 @@
 <h1 align="left">Narae Jang</h1>
 
-**`Front-end Developer / Graphic & UI Designer`**
+**`Graphic & UI Designer / Front-end Developer`**
 
 ###
 
